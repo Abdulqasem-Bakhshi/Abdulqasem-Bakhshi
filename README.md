@@ -7,7 +7,8 @@ I'm an incoming **Full Stack Developer** based in Warsaw, Poland.
 
 ## 🚀 My Recent Projects
 
-<!-- Add your other projects here -->
+1. [Afghan Embassy in Warsaw](https://afghanembassy.com.pl/)
+2. [Nava](https://github.com/Nava-Studio/Nava)
 
 ## 🛠️ Languages and Tools
 
