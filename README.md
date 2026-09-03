@@ -13,6 +13,12 @@ I'm an incoming **Full Stack Developer** based in Warsaw, Poland.
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,vite,ts,express,nodejs,mongodb,sqlite,python,rust,electron,tauri\&perline=13)](#)
 
+## 🔥 My Year on GitHub
+
+Check out what I've achieved on GitHub this year:
+
+[![GitHub Unwrapped](https://githubunwrapped.com/Abdulqasem-Bakhshi/badge)](https://githubunwrapped.com/Abdulqasem-Bakhshi)
+
 ## 📊 GitHub Stats
 
 ![Abdulqasem's GitHub stats](https://github-readme-mwendwa.vercel.app/api?username=Abdulqasem-Bakhshi\&show_icons=true\&count_private=true\&line_height=20\&icon_color=00b3ff\&theme=blue-green\&title_color=00b3ff)
