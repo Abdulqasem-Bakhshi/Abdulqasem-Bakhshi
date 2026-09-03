@@ -1,8 +1,11 @@
-name: Generate GitHub Profile Cards
+name: Update GitHub Contributions
 
 on:
   schedule:
-    - cron: "0 0 * * 0"
+    # Update every day at midnight UTC
+    - cron: "0 0 * * *"
+
+  # Allows you to update it manually
   workflow_dispatch:
 
 permissions:
@@ -13,14 +16,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate profile cards
-        uses: seijikohara/profile-cards-action@v1
+      - name: Generate contribution calendar
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/generate_contributions.py
+
+      - name: Commit updated calendar
+        uses: EndBug/add-and-commit@v9
         with:
-          username: Abdulqasem-Bakhshi
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          cards: contributions
-          output-dir: generated
-          commit: true
+          add: "assets/github-contributions.svg"
+          message: "Update GitHub contribution calendar"
