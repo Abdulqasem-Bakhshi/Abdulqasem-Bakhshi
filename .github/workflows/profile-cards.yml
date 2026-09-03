@@ -20,6 +20,7 @@ jobs:
         uses: seijikohara/profile-cards-action@v1
         with:
           username: Abdulqasem-Bakhshi
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           cards: contributions
           output-dir: generated
           commit: true
