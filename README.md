@@ -15,10 +15,12 @@ I'm an incoming **Full Stack Developer** based in Warsaw, Poland.
 
 ## 📈 My GitHub Contributions
 
-<img
-  src="./generated/contributions.light.svg"
-  alt="Abdulqasem's GitHub contribution calendar"
-/>
+<p align="center">
+  <img
+    src="./assets/github-contributions.svg"
+    alt="Abdulqasem Bakhshi GitHub contribution calendar"
+  />
+</p>
 
 ## 📊 GitHub Stats
 
