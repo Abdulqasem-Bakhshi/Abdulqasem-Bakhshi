@@ -7,7 +7,8 @@ I'm an incoming **Full Stack Developer** based in Warsaw, Poland.
 
 ## 🚀 My Recent Projects
 
-1. [Website: Afghan Embassy in Warsaw, Poland](https://afghanembassy.com.pl/)
+1. [StampThat!](https://github.com/Abdulqasem-Bakhshi/Stamp-That)
+2. [Website: Afghan Embassy in Warsaw, Poland](https://afghanembassy.com.pl/)
 2. [Nava](https://github.com/Nava-Studio/Nava)
 
 ## 🛠️ Languages and Tools
