@@ -13,7 +13,7 @@ I'm an incoming **Full Stack Developer** based in Warsaw, Poland.
 
 ## 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,ts,react,vite,nodejs,express,flask,rust,python,transformers,electron,tauri&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,ts,react,vite,nodejs,express,flask,rust,python,transformer,electron,tauri&perline=13)](#)
 
 ## 📈 My GitHub Contributions
 
